@@ -1,0 +1,63 @@
+
+Body
+{ 
+color-scheme: green, lime;
+
+}
+h1
+{
+text-align: center;
+Font-size: 80PX;
+font-Family: monospace;
+font-weight: bolder;
+color: red;
+Text-decoration-color:red;
+Text-decoration: underline
+}
+
+h2
+{
+    text-align: center;
+    Font-size: 50PX;
+    font-Family: monospace;
+    font-weight: lighter;
+    color: red;
+    Text-decoration-color:red;
+    Text-decoration: italic
+}
+
+button
+{
+   align: center;
+   background-color: red; 
+   border-color: white;
+   border-radius: 10px;
+   border-style: solid;
+   border-width: 10px;
+   width: 130px;
+   height: 130px;
+   cursor: pointer;
+}
+
+sum
+
+{
+    text-align: center;
+    Font-size: 20PX;
+    font-Family: monospace;
+    font-weight: bold;
+    color:white;
+    Text-decoration-color:rgb(222, 195, 195);
+    Text-decoration: italic
+}  
+
+p
+{
+    text-align: center;
+    Font-size: 50PX;
+    font-Family: monospace;
+    font-weight: lighter;
+    color: rgb(230, 217, 217);
+    Text-decoration-color:red;
+    Text-decoration: italic
+}
